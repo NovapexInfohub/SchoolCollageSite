@@ -1,0 +1,239 @@
+{
+  "welcome": "Welcome to Viswa Public School, where we nurture young minds for a brighter future.",
+  "annual_exhibition": "Join us for our Annual Science Exhibition, where students showcase innovative science projects and experiments.",
+  "home": "Home",
+  "about_us": "About Us",
+  "contact_us": "Contact Us",
+  "faculty":"Faculty",
+"students":"Student",
+"events":"Event",
+"academics":"Academics",
+"mission_and_moto": "Mission and Moto",
+"gallery": "Gallery",
+"admission_and_contact":"Admission_And_Contact",
+"Viswa Public School": "Viswa Public School",
+"Risod": "Risod",
+
+  "eventDate": "Event Date",
+  "eventTitle": "Viswa Public School Annual Science Exhibition",
+  "timeRemaining": "Time Remaining",
+ 
+  
+    "school_name": "Viswa Public School",
+    "school_tagline": "Nurturing young minds and shaping future leaders since 2022",
+    "about_us_title": "About Us",
+    "about_us_content": "At Viswa, we are dedicated to fostering an environment of academic excellence, creativity, and holistic development. Our state-of-the-art facilities and passionate faculty ensure a quality education that empowers students to reach their full potential.",
+    "our_legacy_title": "Our Legacy",
+    "our_legacy_content": "Since our establishment in 2022, Viswa Public School has grown into a premier institution known for its commitment to educational excellence. We've continuously evolved, integrating modern teaching methodologies and expanding our curriculum to meet the changing needs of our students. Our nurturing and dynamic learning environment has built a reputation that spans decades.",
+    "explore_programs": "Explore Our Programs",
+
+    "facultyTitle": "Our Faculty",
+    "principalTitle": "Principal",
+    "vicePrincipalTitle": "Vice Principal",
+    "facultyGroupTitle": "Our Dedicated Faculty",
+  
+    "vision": "Today's Vision",
+  "technology": "Tomorrow's Technology",
+  "name": "Johnathan Doe",
+  "designation": "Chairman",
+  "message": "Dear Sir/Madam,\nWelcome to Viswa Public School, where we are dedicated to nurturing young minds and shaping future leaders. At Viswa, we believe in fostering an environment that encourages academic excellence, creativity, and holistic development. Our commitment to quality education and student well-being is reflected in our state-of-the-art facilities and our dedicated faculty. We strive to create a learning experience that empowers students to reach their full potential and excel in all aspects of life. I invite you to explore our website and learn more about our vibrant school community. Together, let’s work towards a brighter future for every student.",
+
+ "subtitle": "You need to know..",
+  "heading": "About Viswa",
+  "text": "Viswa Public School, founded in 2022, is dedicated to providing quality education...",
+  "ctaDownload": "Download Brochure",
+
+    "title": "Viswa Public School",
+    "description":
+      "Viswa Public School offers a rich and diverse educational experience that goes beyond the classroom.",
+    "button": "Go Explore",
+
+
+  
+    "principal_name": "John Doe",
+    "principal_title": "Principal",
+    "principal_quote": "Welcome to our school community! We are dedicated to fostering a nurturing environment that promotes academic and personal growth. Join us in making a positive impact.",
+    "vice_principal_name": "Jane Smith",
+    "vice_principal_title": "Vice Principal",
+    "vice_principal_quote": "Together, we can achieve greatness. Let’s work hand-in-hand to shape the future and build a thriving school environment.",
+    "emily_johnson_name": "Emily Johnson",
+    "english_teacher_title": "English Teacher",
+    "english_teacher_quote": "Teaching is not just about imparting knowledge; it's about inspiring a love for learning and encouraging growth.",
+    "michael_brown_name": "Michael Brown",
+    "mathematics_teacher_title": "Mathematics Teacher",
+    "mathematics_teacher_quote": "Mathematics is the language of the universe. Let's unlock its secrets together.",
+    "sophia_davis_name": "Sophia Davis",
+    "science_teacher_title": "Science Teacher",
+    "science_teacher_quote": "Science is a journey of discovery. Let's explore and learn together.",
+    "david_wilson_name": "David Wilson",
+    "computer_science_teacher_title": "Computer Science Teacher",
+    "computer_science_teacher_quote": "Technology is transforming our world. Let's harness its potential and shape the future.",
+
+    "student": "Student Life at Viswa",
+    "extracurricularTitle": "Extracurricular Activities",
+    "extracurricularDescription": "Our students engage in a variety of extracurricular activities including:",
+    "activities": ["Music", "Dance", "Drama", "Art", "Sports", "Robotics", "Debate Club", "Science Club"],
+    "clubsTitle": "Clubs and Societies",
+    "clubsDescription": "Students can join various clubs and societies to explore their interests:",
+    "clubs": ["Literary Society", "Environmental Club", "Astronomy Club", "Coding Club"],
+    "achievementsTitle": "Achievements",
+    "achievements": [
+    { "name": "John Smith", "achievement": "National Level Math Olympiad Winner" },
+    { "name": "Sarah Lee", "achievement": "Gold Medalist in State Swimming Championship" },
+    { "name": "Tech Innovators Club", "achievement": "Winners of Inter-School Robotics Competition" }
+  ],
+  "councilTitle": "Student Council",
+  "councilMembers": [
+    {
+      "role": "President",
+      "name": "Amy Parker",
+      "grade": "Grade 12",
+      "description": "Amy leads the student council with a vision to enhance student engagement and academic success."
+    },
+    {
+      "role": "Vice President",
+      "name": "Rajiv Mehta",
+      "grade": "Grade 11",
+      "description": "Rajiv supports the president and coordinates various student initiatives and events."
+    },
+    {
+      "role": "Secretary",
+      "name": "Lisa Wong",
+      "grade": "Grade 10",
+      "description": "Lisa manages the student council's records and communication, ensuring smooth operations."
+    }
+  ],
+
+"viswa": "Viswa Public School",
+  "location": "Risod",
+
+  "tit": "Our Curriculum",
+  "primary": {
+    "tit": "Primary (Grades 1-5)",
+    "subjects": ["English", "Mathematics", "Science", "Social Studies", "Art", "Physical Education"]
+  },
+  "secondary": {
+    "tit": "Secondary (Grades 6-10)",
+    "subjects": ["English", "Mathematics", "Science (Physics, Chemistry, Biology)", "Social Studies", "Computer Science", "Physical Education", "Art"]
+  },
+  "senior": {
+    "tit": "Senior Secondary (Grades 11-12)",
+    "science": {
+      "name": "Science Stream",
+      "subjects": ["Physics", "Chemistry", "Biology", "Mathematics", "Computer Science", "English"]
+    },
+    "commerce": {
+      "name": "Commerce Stream",
+      "subjects": ["Accountancy", "Business Studies", "Economics", "Mathematics", "English"]
+    }
+  },
+  "methodology": {
+    "heading": "Teaching Methodologies",
+    "description": "We use a blend of traditional and modern teaching techniques to cater to different learning styles."
+  },
+  "resources": {
+    "heading": "Educational Resources",
+    "description": "Digital classrooms, interactive learning modules, and access to online educational platforms."
+  },
+
+  "head": "Our Mission & Motto",
+  "subhead": "Challenge Yourself, Inspire Excellence",
+  "missionTitle": "Our Mission",
+  "missionText": "At <1>Viswa Public School</1>, our mission is to cultivate a nurturing and inclusive environment where every student is empowered to reach their full potential. We are committed to providing a holistic education that fosters academic excellence, critical thinking, creativity, and personal growth. Through a balanced approach to learning, we aim to equip our students with the skills and values necessary to become compassionate, responsible, and successful global citizens.",
+  "items": [
+    {
+      "title": "Innovation",
+      "description": "We strive to cultivate a spirit of innovation among our students, encouraging them to think outside the box, explore new ideas, and pioneer groundbreaking solutions to real-world challenges."
+    },
+    {
+      "title": "Teamwork",
+      "description": "We recognize the importance of teamwork in achieving collective success. Through collaborative projects and extracurricular activities, we foster a collaborative mindset among our students."
+    },
+    {
+      "title": "Quality",
+      "description": "Quality is at the core of everything we do. From our rigorous academic standards to our state-of-the-art facilities and experienced faculty, we are committed to delivering excellence in education."
+    }
+  ],
+
+
+  "titl": "Gallery",
+  "tabs": {
+    "Images": "Images",
+    "Videos": "Videos"
+  },
+  "modalLabel": "Image Modal",
+
+  "top_events": "Top Events",
+  "no_events_found": "No events found for this category",
+  "first_events": "First Events",
+  "second_events": "Second Events",
+  "senior_secondary_events": "Senior Secondary Events",
+  "math_wizard_competition": "Math Wizard Competition",
+  "math_wizard_competition_desc": "An exciting competition where students showcase their mathematical skills through fun puzzles and challenges.",
+  "art_fair": "Art Fair",
+  "art_fair_desc": "A creative event where students display their artwork, including paintings, drawings, and crafts.",
+  "physical_fitness_week": "Physical Fitness Week",
+  "physical_fitness_week_desc": "A week dedicated to various physical activities and sports to promote health and fitness among students.",
+  "science_fair": "Science Fair",
+  "science_fair_desc": "A fair where students present their science projects and experiments, showcasing their understanding and innovation.",
+  "computer_science_quiz": "Computer Science Quiz",
+  "computer_science_quiz_desc": "A quiz competition focused on computer science topics, including programming, algorithms, and tech trivia.",
+  "social_studies_debate": "Social Studies Debate",
+  "social_studies_debate_desc": "A debate competition where students discuss and argue on various social studies topics, enhancing their public speaking and critical thinking skills.",
+  "science_olympiad": "Science Olympiad",
+  "science_olympiad_desc": "An advanced competition covering physics, chemistry, and biology, aimed at encouraging scientific inquiry and excellence.",
+  "commerce_fair": "Commerce Fair",
+  "commerce_fair_desc": "A fair showcasing projects and presentations related to accountancy, business studies, and economics.",
+  "mathematics_challenge": "Mathematics Challenge",
+  "mathematics_challenge_desc": "A challenging event featuring advanced mathematical problems and puzzles designed to test and improve students' mathematical skills.",
+  "view_first_events": "View First Events",
+  "view_second_events": "View Second Events",
+  "view_senior_secondary_events": "View Senior Secondary Events",
+
+
+  "contactForm": {
+  "contactUs": "Contact Us",
+  "emailPlaceholder": "Your Email Address",
+  "messagePlaceholder": "Your Message",
+  "sendMessage": "Send Message",
+  "validationMessage": "Please fill in all fields!",
+  "successMessage": "Message sent successfully!",
+  "errorMessage": "An error occurred while sending your message. Please try again."
+},
+"contactInfo": {
+  "getInTouch": "Get In Touch",
+  "officeHours": "Office Hours",
+  "mondayToFriday": "Monday - Friday: 9:00 AM - 5:00 PM",
+  "saturday": "Saturday: 10:00 AM - 2:00 PM",
+  "sunday": "Sunday: Closed",
+  "visitUs": "Visit Us",
+  "address": "1234 School Street, Education City, EC 12345"
+},
+"admissionInfo": {
+  "title": "Admission Information",
+  "process": "Admission Process",
+  "processDescription": "Admission forms are available for download. Submit the completed form along with required documents at the school office.",
+  "downloadForm": "Download Admission Form",
+  "criteria": "Criteria",
+  "criteriaDescription": "Admission is based on merit and availability of seats. Entrance tests may be conducted for certain grades.",
+  "dates": "Important Dates",
+  "formAvailability": "Admission Form Availability: March 1st",
+  "lastSubmissionDate": "Last Date for Submission: March 31st",
+  "entranceTest": "Entrance Test: April 15th",
+  "resultAnnouncement": "Announcement of Results: April 30th"
+},
+"mapSection": {
+  "title": "Find Us On The Map"
+},
+
+    "schoolName": "Viswa Public School",
+    "address": "123 Main Street, Viswa, IL 62704.",
+    "contactUs": "Contact Us",
+    "email": "Email: contact@Viswa.edu",
+    "followUs": "Follow Us",
+    "support": "Support",
+    "manvi": "Name: Manvi Sanap",
+    "phone": "Phone: +91 9874562130",
+    "rightsReserved": "© 2023 Viswa Public School. All rights reserved."
+    }
+  
